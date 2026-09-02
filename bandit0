@@ -1,0 +1,4 @@
+The first step to login bandit 0 in ssh i open terminal in my gadget (termux in android)
+dont forget to instal ssh in your terminal 
+after that i login to bandit0 in bandit.labs.overthewire.org url in port 2220 ssh with command ssh bandit0@bandit.labs.overthewire.org -p 2220
+and i input a password:bandit0
