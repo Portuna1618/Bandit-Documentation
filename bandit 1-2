@@ -1,0 +1,8 @@
+setelah login ke bandit 1 kita bisa mencari paswoord dengan petunjuk -
+lalu saya masukkan command du - dan yang keluar ada 4
+setelah itu saya masukan du -a dan terdapat 4 kategori yang memiliki 4 seperti -
+lalu saya curiga dengan file -/_ 
+jadi saya menggunakan command cat -/_ dan password ya tergenerate
+jangan lupa untuk mengcommand exit 
+dan login ke bandit 2 dengan url ssh bandit1@bandit.labs.overthewire.org -p 2220
+dengan password yang sudah ter generate
