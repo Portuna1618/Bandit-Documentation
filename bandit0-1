@@ -6,3 +6,5 @@ i mencoba coba semua code samnpe menemukan cat readme
 lalu password terli8hat
 laluy bisa exit 
 dan login ke bandit1 di saya dengtan menetik
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+lalu masukan password yang sudah ter generate di cat readme
